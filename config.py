@@ -1,1 +1,0 @@
-api_key_bot = "5581532677:AAEptNY9KpYuhPCVhSSglw75vJRcoLYBr6I"
